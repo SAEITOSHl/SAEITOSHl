@@ -1,4 +1,4 @@
-<div align="center"><img width="814" height="1100" alt="Image" src="https://github.com/user-attachments/assets/a42ca77d-a387-4780-b0a9-3d2ebc5e6ab9"/></div>
+<div align="center"><img width="600" height="800" alt="Image" src="https://github.com/user-attachments/assets/a42ca77d-a387-4780-b0a9-3d2ebc5e6ab9"/></div>
 <h4 align="center">
   <a href="https://github.com/vatrinyasin">main ❤</a>
 <a href="https://saeitoshiyume.straw.page">yume</a>
