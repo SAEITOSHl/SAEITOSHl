@@ -10,7 +10,10 @@
   <img alt="Your Image Description" src="https://github.com/user-attachments/assets/ccb44f93-f866-4faa-a3c3-47e1712f60f8" />
 </picture>
 </a>
+  <br>
+  <div align="center">
 <a href="https://github.com/vatrinyasin">𝚖𝚊𝚒𝚗</a>   
 <a href="https://saeitoshiyume.straw.page">𝚐𝚊𝚕𝚕𝚎𝚛𝚢</a>   
 <a href="https://rinslovemail.carrd.co/">𝚐𝚘𝚊𝚝𝚜</a>
 </h4>
+  </div>
